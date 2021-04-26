@@ -1,2 +1,0 @@
-# liquid-gold
-Begin app
